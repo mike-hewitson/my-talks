@@ -1,12 +1,37 @@
-# Software Craftmanship In the Enterprise
+# Software Craftmanship In the Enterprise - Bootcamp
 
-# Bootcamp Contents
+## What people will get
 
-# Section I
+* Exposure to some values: professional excellence, ownership of skills and a culture of learning, and the value of constant ongoing practice
 
-[Software Craftmanship by Sando Mancuso] (https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/ref=sr_1_2?s=books&ie=UTF8&qid=1460952373&sr=1-2&keywords=software+craftsmanship)
+* Community: learning together with people from different teams, new and existing team members, old and the young
 
-[Clean Code by Robert Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_3?s=books&ie=UTF8&qid=1460952373&sr=1-3&keywords=software+craftsmanship)
+* Technical skills and knowledge: software engineering practices, alternative ways of looking at things, lessons from other languages
 
-[String Kata by Roy Osherove](http://osherove.com/tdd-kata-1/)
+* Exposure: thought leaders (within and without Investec), new ideas, new sources of information and learning
+
+## What the delegates will do
+
+Read
+Practice
+Present back
+Study
+Deliberate practice
+Program in languages you’ve never heard of (and some that you have)
+Listen
+Meet people
+Lots of the above together in a group
+And you’ll use (and benefit from) all of the above in what you on a daily basis
+
+## Outcomes looked for
+
+* Improvement in code quality
+
+* Job satisfaction
+
+* Ownership by developers
+
+* A change in culture
+
+
 
