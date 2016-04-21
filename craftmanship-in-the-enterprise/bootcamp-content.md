@@ -49,6 +49,8 @@ Some of the courses done so far:
 * [MongoDB with Java](https://university.mongodb.com/courses/M101J/about)
 * [Financial Markets](https://www.coursera.org/learn/financial-markets)
 * [Full Stack Web Development](https://www.coursera.org/specializations/full-stack)
+* [Computer and Hacking Forensics](https://www.cybrary.it/course/computer-hacking-forensics-analyst/)
+* [Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
 
 ### Section IV - Seven of something
 
