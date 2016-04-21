@@ -12,25 +12,23 @@
 
 ## What the delegates will do
 
-Read
-Practice
-Present back
-Study
-Deliberate practice
-Program in languages you’ve never heard of (and some that you have)
-Listen
-Meet people
-Lots of the above together in a group
-And you’ll use (and benefit from) all of the above in what you on a daily basis
+* Read
+* Practice
+* Present back
+* Study
+* Deliberate practice
+* Program in languages you’ve never heard of (and some that you have)
+* Listen
+* Meet people
+* Lots of the above together in a group
+* And you’ll use (and benefit from) all of the above in what you on a daily basis
 
 ## Outcomes looked for
 
 * Improvement in code quality
-
 * Job satisfaction
-
 * Ownership by developers
-
+* Growth in developer knowledge and skills
 * A change in culture
 
 
