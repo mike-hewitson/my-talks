@@ -44,6 +44,12 @@ A MOOC (of relevance and interest) is chosen and studied by the team as a group.
 
 Meet once a week to help each other, and provide motivation.
 
+Some of the courses done so far:
+* [Learning How to Learn] (https://www.coursera.org/learn/learning-how-to-learn)
+* [MongoDB with Java](https://university.mongodb.com/courses/M101J/about)
+* [Financial Markets](https://www.coursera.org/learn/financial-markets)
+* [Full Stack Web Development](https://www.coursera.org/specializations/full-stack)
+
 ### Section IV - Seven of something
 
 The team selects one of the following books to study together:
