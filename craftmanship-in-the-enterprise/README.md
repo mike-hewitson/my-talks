@@ -8,7 +8,7 @@
 
 * Technical skills and knowledge: software engineering practices, alternative ways of looking at things, lessons from other languages
 
-* Exposure: thought leaders (within and without Investec), new ideas, new sources of information and learning
+* Exposure: thought leaders (inside and outside the comapny), new ideas, new sources of information and learning
 
 ## What the delegates will do
 
